@@ -21,7 +21,7 @@
     "url": "http://www.ryanzec.com"
   },
   "dependencies": {
-    "glob": "4.0.4"
+    "glob": "7.1.1"
   },
   "devDependencies": {
     "mocha": "1.18.2",
